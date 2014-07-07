@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PresSms</string>
+    <string name="action_settings">Reset All</string>
+    <string name="action_send_all">Send to All</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="contact01_name">Set</string>
+    <string name="contact02_name">Set</string>
+    <string name="contact03_name">Set</string>
+    <string name="btn_done">Done</string>
+    <string name="txt_name">Name Here</string>
+    <string name="txt_phone">Phone Here</string>
+
+</resources>
